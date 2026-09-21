@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="headerlogo.png" alt="MM3 Hub" width="240">
+  <img src="https://github.com/Ieavemealone012/mm3-hub/raw/main/Images/mm3hub-full-dark.png#gh-dark-mode-only" width="480">
+  <img src="https://github.com/Ieavemealone012/mm3-hub/raw/main/Images/mm3hub-full-light.png#gh-light-mode-only" width="480">
 </p>
-
-<h1 align="center">MM3 Hub</h1>
 
 <p align="center">
   A lightweight Windows control center for monitoring hardware, diagnosing common system issues, and managing MM3 devices.
